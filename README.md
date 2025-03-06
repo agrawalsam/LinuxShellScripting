@@ -2,6 +2,29 @@
 Repo for linux shell scripts
 
 1. User Management Project - A Linux Shell Script on User Management. This scripts automates user creation, deletion and modification. <br>
+Project Scope -
+a. Lists All Users
+    Display all system users.
+
+b. User Creation
+    Check if the user already exists.
+    Create a user with a home directory.
+    Set a password for the new user.
+
+c. User Deletion
+    Check if the user exists before deletion.
+    Remove the user.
+
+d. Modify User Details
+    Change a user's username. 
+    Change a user’s password.
+    Change the user's home directory. 
+
+e. Add a User to a Group
+    Assign a user to an existing group.
+    Verify if the user and group exist before assigning.
+
+Usage - 
 
 Usage: ./usermanagement.sh -[option] <br>
 
