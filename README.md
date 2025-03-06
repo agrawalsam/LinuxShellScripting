@@ -11,9 +11,9 @@ Options:
   -m   Modify a user's information (username, password, or home directory)
   -a   Add a user to a group
 
-Example usage:
-\n  ./usermanagement.sh -l              # List all users
-\n  ./usermanagement.sh -c              # Create a new user
-\n  ./usermanagement.sh -d              # Delete an existing user
-  ./usermanagement.sh -m              # Modify a user's information
-  ./usermanagement.sh -a              # Add a user to a group
+Example usage:<br>
+  ./usermanagement.sh -l              # List all users <br>
+  ./usermanagement.sh -c              # Create a new user <br>
+  ./usermanagement.sh -d              # Delete an existing user <br>
+  ./usermanagement.sh -m              # Modify a user's information <br>
+  ./usermanagement.sh -a              # Add a user to a group <br>
