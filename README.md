@@ -12,8 +12,8 @@ Options:
   -a   Add a user to a group
 
 Example usage:
-  ./usermanagement.sh -l              # List all users
-  ./usermanagement.sh -c              # Create a new user
-  ./usermanagement.sh -d              # Delete an existing user
+\n  ./usermanagement.sh -l              # List all users
+\n  ./usermanagement.sh -c              # Create a new user
+\n  ./usermanagement.sh -d              # Delete an existing user
   ./usermanagement.sh -m              # Modify a user's information
   ./usermanagement.sh -a              # Add a user to a group
