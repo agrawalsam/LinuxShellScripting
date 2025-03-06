@@ -1,9 +1,9 @@
 # LinuxShellScripting
-Repo for linux shell scripts
+**Repo for linux shell scripts**
 
-1. User Management Project - A Linux Shell Script on User Management. This scripts automates user creation, deletion and modification. <br>
+**1. User Management Project -** A Linux Shell Script on User Management. This scripts automates user creation, deletion and modification. <br>
 
-Project Scope - <br>
+**Project Scope** - <br>
 
 a. Lists All Users <br>
     Display all system users.
@@ -26,7 +26,7 @@ e. Add a User to a Group <br>
     Assign a user to an existing group. <br>
     Verify if the user and group exist before assigning. <br>
 
-Usage - <br>
+**Usage -** <br>
 
 Usage: ./usermanagement.sh -[option] <br>
 
