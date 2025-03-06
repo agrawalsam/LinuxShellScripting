@@ -1,7 +1,8 @@
 # LinuxShellScripting
 Repo for linux shell scripts
 
-1. User Management Project - A Linux Shell Script on User Management. This scripts automates user creation, deletion and modification. 
+1. User Management Project - A Linux Shell Script on User Management. This scripts automates user creation, deletion and modification. <br>
+
 Usage: ./usermanagement.sh -[option] <br>
 
 Options: <br>
