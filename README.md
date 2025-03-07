@@ -3,6 +3,10 @@
 
 **1. User Management Project -** A Linux Shell Script on User Management. This scripts automates user creation, deletion and modification. <br>
 
+**2. Directory Backup into a S3 Bucket -** A Linux Shell Script Project to compress directory and store it in S3 as a backup. <br>
+
+**1. User Management Project -** <br>
+
 **Project Scope** - <br>
 
 a. Lists All Users <br>
